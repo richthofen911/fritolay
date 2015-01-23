@@ -1,0 +1,7 @@
+<!-- From: file:/home/richthofen80/AP1_Projects/clone%20fraytolay/library/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.handmark.pulltorefresh.library">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="20"/>
+
+    <application/>
+
+</manifest>
